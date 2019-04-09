@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPG_1.5.5", "RPG_1.5.5\RPG_1.5.5.vcxproj", "{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Debug|x64.ActiveCfg = Debug|x64
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Debug|x64.Build.0 = Debug|x64
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Debug|x86.ActiveCfg = Debug|Win32
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Debug|x86.Build.0 = Debug|Win32
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Release|x64.ActiveCfg = Release|x64
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Release|x64.Build.0 = Release|x64
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Release|x86.ActiveCfg = Release|Win32
+		{11BB34AF-FF7A-42AE-A5BE-04B0BC16ADE5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5712EE5-907E-49E6-BBF5-5742897D997F}
+	EndGlobalSection
+EndGlobal

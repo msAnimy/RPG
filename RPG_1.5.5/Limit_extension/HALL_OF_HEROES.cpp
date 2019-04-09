@@ -1,0 +1,12 @@
+#include "HALL_OF_HEROES.h"
+
+
+
+HALL_OF_HEROES::HALL_OF_HEROES()
+{
+}
+
+
+HALL_OF_HEROES::~HALL_OF_HEROES()
+{
+}
